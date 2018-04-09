@@ -1,21 +1,10 @@
-Decorator for PyCallGraph
-#################
-
-TODO
-
-    # pip install pycallgraph
-    # pip install pycallgraphdecorator
-    # export CREATE_CALL_GRAPH=True
-    # export CALL_GRAPH_OUTPUT_PATH=./call_graph/
-    # export CALL_GRAPH_OUTPUT_TYPE=png
-
 Python Call Graph Decorator
 #################
 
 Welcome! Python Call Graph Decorator is a `Python <http://www.python.org>`_ module with decorator for easy and effective use pyCallGraph that creates `call graph <http://en.wikipedia.org/wiki/Call_graph>`_ visualizations for Python applications.
 
-.. image:: https://img.shields.io/pypi/v/pycallgraphdecorator.svg
-    :target: https://crate.io/packages/pycallgraphdecorator/
+.. image:: https://img.shields.io/pypi/v/callgraphdecorator.svg
+    :target: https://pypi.python.org/pypi/callgraphdecorator
 
 Quick Start
 ===========
